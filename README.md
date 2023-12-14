@@ -1,5 +1,5 @@
 **[Play Store](https://play.google.com/store/apps/dev?id=7815903651523223132)** · 
-**[Instagram](https://www.instagram.com/hyunsoong_i/)** · 
+**[Instagram](https://www.instagram.com/hyunsoong._.i/)** · 
 **[X](https://twitter.com/hyunsoong_i)** · 
 **[Dev](https://dev.to/hyunsoong_i)** · 
 **[NPM](https://www.npmjs.com/settings/hyunseunglee2008/packages)** · 
